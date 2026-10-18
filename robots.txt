@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pandiyanbharathi201994-crypto.github.io/portfolio/sitemap.xml
